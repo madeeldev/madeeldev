@@ -1,8 +1,8 @@
 ### Hi there, I'm Adeel 👋
 
-## I am Full Stack Developer, Open Source Contributor, Freelancer & Computer Scientist.
+## I am Full Stack Developer, Open Source Contributor & Computer Scientist.
 
-- 🔭 I’m currently working as a frelancer!
+- 🔭 I’m currently working as a Web Developer!
 - 🌱 I’m learning everything 🤣
 - 👯 I’m looking forward to collaborate and participate in opensource community
 - 🥅 2020 Goals: Contribute more to Open Source projects
