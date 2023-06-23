@@ -1,12 +1,12 @@
 ### Hi there, I'm Adeel 👋
 
-## I am Full Stack Developer, Open Source Contributor & Computer Scientist.
+## Full Stack Developer, Open Source Contributor & Computer Scientist from Pakistan.
 
-- 🔭 I’m currently working as a Software Developer!
-- 🌱 I’m learning everything 🤣
+- 💼 I’m currently working as a Software Engineer!
+- 🌱 I’m learning flutter ❤️
 - 👯 I’m looking forward to collaborate and participate in opensource community
-- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games 🤔
+- 💬 Ask me about anything, i will be happy to help 💻
 
 ### Connect with me:
 
