@@ -41,7 +41,7 @@
 
 <img align="left" alt="madeeldev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madeeldev&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
 
-[website]: https://adeelsafdar.netlify.app/
+[website]: https://adeelsafdar.dev/
 [twitter]: https://twitter.com/adeelsafdar_dev
 [instagram]: https://instagram.com/adeel.dev
 [linkedin]: https://linkedin.com/in/madeeldev
