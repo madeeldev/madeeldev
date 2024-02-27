@@ -1,47 +1,51 @@
-### Hi there, I'm Adeel 👋
+<!-- Hi there, I'm Adeel 👋 -->
 
-## Full Stack Developer, Open Source Contributor & Computer Scientist from Pakistan.
+<h2 align="center">Hi there, I'm Adeel 👋</h2>
 
-- 💼 I’m currently working as a Software Engineer!
-- 🌱 I’m learning flutter ❤️
-- 👯 I’m looking forward to collaborate and participate in opensource community
-- ⚡ Fun fact: I love to play video games 🤔
-- 💬 Ask me about anything, i will be happy to help 💻
+<h3 align="center">Full Stack Developer | Open Source Contributor | Computer Scientist</h3>
+
+<p align="center">
+  <img src="https://adeelsafdar.dev/adeel-safdar.png" alt="Adeel's Profile Image" width="300">
+</p>
+
+<p align="center">
+  💼 Manager Software Development | 🌱 Learning mobile & web development | 👯 Open source enthusiast | ⚡ Video game lover | 💻 Always here to help
+</p>
 
 ### Connect with me:
 
-[<img align="left" alt="adeelsafdar.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="adeelsafdar_dev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="madeeldev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="adeel.dev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+<p align="center">
+  <a href="https://adeelsafdar.dev/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-adeelsafdar.dev-blue?style=flat&logo=google-chrome"></a>
+  <a href="https://twitter.com/adeelsafdar_dev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-adeelsafdar_dev-blue?style=flat&logo=twitter"></a>
+  <a href="https://linkedin.com/in/madeeldev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-madeeldev-blue?style=flat&logo=linkedin"></a>
+  <a href="https://instagram.com/adeel.dev" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adeel.dev-blue?style=flat&logo=instagram"></a>
+</p>
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="26px" src="https://img.icons8.com/metro/52/000000/php.png" />
-<img align="left" alt="PHP" width="26px" src="http://simpleicons.org/icons/codeigniter.svg" />
-<img align="left" alt="PHP" width="26px" src="http://simpleicons.org/icons/laravel.svg" />
-<img align="left" alt="PHP" width="26px" src="https://img.icons8.com/ios-filled/50/000000/yii-framework.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<p align="center">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+</p>
 
-<br />
-<br />
+### GitHub Stats:
 
----
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=madeeldev&count_private=true&show_icons=true&hide_border=true&theme=tokyonight">
+</p>
 
-<img align="left" alt="madeeldev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madeeldev&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+### Let's Connect and Collaborate!
 
-[website]: https://adeelsafdar.dev/
-[twitter]: https://twitter.com/adeelsafdar_dev
-[instagram]: https://instagram.com/adeel.dev
-[linkedin]: https://linkedin.com/in/madeeldev
+<p align="center">
+  <img alt="Visitor Badge" src="https://komarev.com/ghpvc/?username=madeeldev&color=blue&style=for-the-badge">
+</p>
