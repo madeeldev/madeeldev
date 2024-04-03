@@ -2,14 +2,14 @@
 
 <h2 align="center">Hi there, I'm Adeel 👋</h2>
 
-<h3 align="center">Full Stack Developer | Open Source Contributor | Computer Scientist</h3>
+<h3 align="center">Software Developer | Open Source Contributor | Computer Scientist</h3>
 
 <p align="center">
   <img src="https://adeelsafdar.dev/adeel-safdar.png" alt="Adeel's Profile Image" width="300">
 </p>
 
 <p align="center">
-  💼 Manager Software Development | 🌱 Learning mobile & web development | 👯 Open source enthusiast | ⚡ Video game lover | 💻 Always here to help
+  💼 Manager Software Development | 🌱 Mobile & Web Development | 👯 Open Source Enthusiast | ⚡ Video Game Lover | 💻 Always here to help
 </p>
 
 ### Connect with me:
