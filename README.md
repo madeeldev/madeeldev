@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  💼 Manager Software Development | 🌱 Mobile & Web Development | 👯 Open Source Enthusiast | ⚡ Video Game Lover | 💻 Always here to help
+  💼 Senior Software Developer | 🌱 Mobile & Web Development | 👯 Open Source Enthusiast | ⚡ Video Game Lover | 💻 Always here to help
 </p>
 
 ### Connect with me:
